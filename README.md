@@ -2,7 +2,7 @@
 ## Introduction to Descriptive Statistics & Exploratory Data Analysis
 26/08-29/08/2024
 
-Lecturer: Thi-Tuyet-Trang CHAU 
+Lecturer: Thi-Tuyet-Trang CHAU \\
 E-mail: thi.tuyet.trang.chau@gmail.com
 
 1h15 / lecture (Mon - Thu; 9:00 - 10:15)
