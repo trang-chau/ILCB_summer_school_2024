@@ -14,6 +14,7 @@ For participants, please direct to this [link](https://drive.google.com/drive/fo
 
 **Practical sessions**: 
 
-Please make sure to copy the following notebooks and edit on your copied versions:
+Please make sure to copy the following notebooks and edit your copied versions:
 1. [Practice- Lecture_01.ipynb](https://colab.research.google.com/drive/1hadOcRGNHJmYfIBeXAMdeoqKXXsgnTkV?usp=sharing)
 2. [Practice- Lecture_02.ipynb](https://colab.research.google.com/drive/12TWC3PRPeyzU_KuVZRiJe68FOzoER2mE?usp=sharing)
+3. [Practice- Lecture_03.ipynb](https://colab.research.google.com/drive/1hadOcRGNHJmYfIBeXAMdeoqKXXsgnTkV?usp=sharing)
