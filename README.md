@@ -18,4 +18,4 @@ Please make sure to copy the following notebooks and edit your copied versions:
 1. [Practice- Lecture_01.ipynb](https://colab.research.google.com/drive/1hadOcRGNHJmYfIBeXAMdeoqKXXsgnTkV?usp=sharing)
 2. [Practice- Lecture_02.ipynb](https://colab.research.google.com/drive/12TWC3PRPeyzU_KuVZRiJe68FOzoER2mE?usp=sharing)
 3. [Practice- Lecture_03.ipynb](https://colab.research.google.com/drive/1rEtz_jl7xj6d_5txocgDXg0pQgAgq0CY?usp=drive_link)
-4. [Practice- Lecture_04.ipynb]
+4. [Practice- Lecture_04.ipynb](https://colab.research.google.com/drive/1bUeJ_81MTJGKRi998yb6Kr2_ZfcIljkv?usp=drive_link)
